@@ -1,0 +1,2 @@
+def badcode():
+    raise ValueError
